@@ -10,11 +10,11 @@ function App() {
     // const clearKey
 
     const add = (number) => {
-        let totalNum = 
+        let // XXXXXX
     }
-    const subtract
-    const multiply
-    const divide
+    // const subtract
+    // const multiply
+    // const divide
 
 }
 
